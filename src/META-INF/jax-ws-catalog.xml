@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://uf065730:8080/SOAP1/SOAP1?wsdl" uri="wsdl/uf065730_8080/SOAP1/SOAP1.wsdl"/>
+    <system systemId="http://uf065730:8080/SOAP1/SOAP1?xsd=1" uri="wsdl/uf065730_8080/SOAP1/SOAP1.xsd_1.xsd"/>
+</catalog>
